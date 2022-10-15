@@ -1,5 +1,5 @@
 # Pokémon HeartGold IronMON Tournament (S3) Rules
-This is a list of rules competitors must adhere to while taking part in Crozwords' IronMON Tournament.
+This is a list of rules competitors must adhere to while taking part in Crozwords' IronMON Tournament
 
 - Players will be awarded points for milestones or bonuses on each seed. The score for each round will be the total milestones reached across all 10 seeds (+ bonus points).
 
