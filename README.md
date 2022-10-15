@@ -30,11 +30,11 @@ The string for the randomiser:
 |-|-|
 | Have Fun!🙂                 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience! |
 | 10 Seeds Per Round          | Each player will complete 10 seeds within the week. |
-| Choice Seeds (#5 & #10)     | Seeds #5 and #10 are an exception to the traditional Kaizo rules. You are allowed to CHOOSE your starter. For all other seeds, the starter MUST be chosen through randomisation. No Legendary or 600BST mons are allowed. |
-| All Legends Lab             | If 3 Legendaries/600BST show up in the lab, still select a random ball, complete the Rival 1 battle and pivot before the first trainer. If it is a Choice Seed, pick which mon you would like to run in the lab and then pivot immediately after. |
+| Choice Seeds (#5 & #10)     | Seeds #5 and #10 are an exception to the traditional Kaizo rules. You are allowed to CHOOSE your starter. For all other seeds, the starter MUST be chosen through randomisation. If the player always picks one side or chat picks the ball, this is not allowed. The ball choice has to be random. No Legendary or 600BST mons are allowed. |
+| All Legends Lab             | If 3 Legendaries/600BST show up in the lab, still select a random ball, complete the Rival 1 battle and pivot before the first trainer. If it is a Choice Seed, pick which mon you would like to run in the lab and then pivot immediately after. If you would like to re-randomise the seed and not pick a banned mon, that is up to you. |
 | 2 Legends Lab               | Re-randomise the seed and DO NOT count it as a reset. We want people to have a chance! |
-| 1 Legend Lab                | Choose a random ball but the Legend/600BST mon MAY NOT be chosen. |
-| Kaizo Luck Clause           | If you do not beat the first rival battle in ANY of your FIRST 9 attempts, you can repeat seed #10 as a Choice Seed until Rival 1 is cleared. |
+| 1 Legend Lab                | Choose which of the two legal mons you would like to pick, but the Legend/600BST mon MAY NOT be chosen. |
+| Kaizo Luck Clause           | If you do not beat the first rival battle in ANY of your FIRST 9 attempts, you can repeat seed #10 as a Choice Seed until Rival 1 is cleared. This means you re-randomise the seed, not play the same seed over and over until you win it. |
 | Trapping Rule               | Before the Rival 1 battle, if a mon traps you and 0 Poké Balls have been found, you may kill the mon. This CANNOT be exploited purposefully. If you picked up a Poké Ball, you MUST attempt to catch and release or pivot- your intentions must also be declared. If you catch and release, you may not look at the info for the Pokémon. |
 | Seed Visibility             | Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. E.g. Tourny Seed #1 |
 | Score Hand-In               | Upon completion of your stream, the player must post seed scores in the #Tourny-Score-Submit channel. Please use the correct format so admins can update the spreadsheet as fast as possible. |
