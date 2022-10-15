@@ -11,10 +11,12 @@ This is a list of rules competitors must adhere to while taking part in Crozword
 
 You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce
 
-You can view the score spreadsheet here: https://docs.google.com/spreadsheets/d/1XE1GCrFGZVFELLcYvJcD0J_5gSQH-qI7qjEiWCLjwKU/edit#gid=0
+View the score spreadsheet here: https://docs.google.com/spreadsheets/d/1XE1GCrFGZVFELLcYvJcD0J_5gSQH-qI7qjEiWCLjwKU/edit#gid=0
 
 The string for the randomiser:
 318WRIEEgKXAJoAnQCRAAKeBnsECQEAFAACCQAuEgAAAAAADBCI5ATkQYgICTIGBQIyAAUWUG9rZW1vbiBTb3VsU2lsdmVyIChVKR09CZbjwziK
+
+An IronMON patch for HeartGold has been put together by PyroMike, you can find that here: https://github.com/PyroMikeGit/IronMONHGSS
 
 ### Global Favourites for S3:
 | Favourite                   | Details
