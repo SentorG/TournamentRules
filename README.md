@@ -32,6 +32,7 @@ An IronMON patch for HeartGold has been put together by PyroMike, you can find t
 |-|-|
 | Have Fun!🙂                 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience! |
 | 10 Seeds Per Round          | Each player will complete 10 seeds within the week. |
+| Make Time For Seeds         | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. |
 | Choice Seeds (#5 & #10)     | Seeds #5 and #10 are an exception to the traditional Kaizo rules. You are allowed to CHOOSE your starter. For all other seeds, the starter MUST be chosen through randomisation. If the player always picks one side or chat picks the ball, this is not allowed. The ball choice has to be random. No Legendary or 600BST mons are allowed. |
 | All Legends Lab             | If 3 Legendaries/600BST show up in the lab, still select a random ball, complete the Rival 1 battle and pivot before the first trainer. If it is a Choice Seed, pick which mon you would like to run in the lab and then pivot immediately after. |
 | 2 Legends Lab               | Re-randomise the seed and DO NOT count it as a reset. We want people to have a chance! |
@@ -41,7 +42,6 @@ An IronMON patch for HeartGold has been put together by PyroMike, you can find t
 | Seed Visibility             | Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. E.g. Tourny Seed #1 |
 | Score Hand-In               | Upon completion of your stream, the player must post seed scores in the #Tourny-Score-Submit channel. Please use the correct format so admins can update the spreadsheet as fast as possible. |
 | Tie Event                   | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. |
-| Make Time For Seeds         | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. |
 
 ### Battle Royale Bracket:
 | Rule                        | Details
