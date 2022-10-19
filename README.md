@@ -60,5 +60,4 @@ An IronMON patch for HeartGold has been put together by PyroMike, you can find t
 - Rival 1 battle is ONLY worth 1 point, even though your BST might be lower than 420. If you evolve in the lab, you will get 1 point for the milestone and 2 points for the evo.
 - Where it evolves MUST be reflected in your score reporting.
 - Limited to two evolution bonuses PER SEED.
-- Evolution targets (for bonus points) can ONLY come from the following locations: Route 29, 30, 31, 32, 46, Ruins of Alph, Dark Cave, Headbutt/Fishing locations pre-Union Cave.
--  Evolution bonus is not available to new pivots after Union Cave.
+- Evolution targets (for bonus points) can ONLY come from the following locations: Route 29, 30, 31, 32, 46, Ruins of Alph, Dark Cave, Headbutt/Fishing locations pre-Union Cave. Evolution bonus is not available to new pivots after Union Cave.
