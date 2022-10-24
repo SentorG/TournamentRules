@@ -54,7 +54,7 @@ An IronMON patch for HeartGold has been put together by PyroMike, you can find t
 ### Global Bonus Points Rules (NEW):
 | Rule                        | Details
 |-|-|
-| Level-Up Evolutions         | Successfully evolving a Pokémon through level-up (Stones/Friendship will not count) will earn you bonus points towards your tournament score. |
+| Level-Up Evolutions         | Successfully evolving a Pokémon through natural level-up (Items/Friendship evolutions will not count) will earn you bonus points towards your tournament score. |
 | <420BST = Double Points     | Running a Pokémon that is <420BST will net you (x2) DOUBLE points on milestones. Once it evolves (if it does), you will no longer have the x2 modifier. |
 - Bonus structure: Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5)
 - Rival 1 battle is ONLY worth 1 point, even though your BST might be lower than 420. If you evolve in the lab, you will get 1 point for the milestone and 2 points for the evo.
