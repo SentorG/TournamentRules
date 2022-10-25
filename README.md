@@ -34,10 +34,10 @@ An IronMON patch for HeartGold has been put together by PyroMike, you can find t
 | 10 Seeds Per Round          | Each player will complete 10 seeds within the week. |
 | Make Time For Seeds         | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. |
 | Random Ball Choice          | The ball choice in the lab MUST be chosen through randomisation. Limeoatsbot has a great choice command (!pkmn choose) to randomly select a ball. You may also use other methods of random choices (E.g. a wheel spin, but must be shown). In no circumstances can the player select one ball before seeing the choice or chat chooses the ball. |
-| Choice Seeds (#5 & #10)     | Seeds #5 and #10 are an exception to the traditional Kaizo rules. You are allowed to CHOOSE your starter. For all other seeds, the starter MUST be chosen through randomisation. The ball choice has to be random. No Legendary or 600BST mons are allowed. |
-| All Legends Lab             | If 3 Legendaries/600BST show up in the lab, still select a random ball, complete the Rival 1 battle and pivot before the first trainer. If it is a Choice Seed, pick which mon you would like to run in the lab and then pivot immediately after. |
+| Choice Seeds (#5 & #10)     | Seeds #5 and #10 are an exception to the traditional Kaizo rules. You are allowed to CHOOSE your starter. For all other seeds, the starter MUST be chosen through randomisation. The ball choice has to be random. No Legendary or 599+BST mons are allowed. |
+| All Legends Lab             | If 3 Legendaries/599+BST show up in the lab, still select a random ball, complete the Rival 1 battle and pivot before the first trainer. If it is a Choice Seed, pick which mon you would like to run in the lab and then pivot immediately after. |
 | 2 Legends Lab               | Re-randomise the seed and DO NOT count it as a reset. We want people to have a chance! |
-| 1 Legend Lab                | Randomly select a ball. If the selection is the Legend/600BST mon, you may choose the ball you would like to run but NOT the Legend/600BST. |
+| 1 Legend Lab                | Randomly select a ball. If the selection is the Legend/600BST mon, you may choose the ball you would like to run but NOT the Legend/599+BST. |
 | Kaizo Luck Clause           | If you do not beat the first rival battle in ANY of your FIRST 9 attempts, you can repeat seed #10 as a Choice Seed until Rival 1 is cleared. This means you re-randomise the seed, not play the same seed over and over until you win it. |
 | Trapping Rule               | Before the Rival 1 battle, if a mon traps you and 0 Poké Balls have been found, you may kill the mon. This CANNOT be exploited purposefully. If you picked up a Poké Ball, you MUST attempt to catch and release or pivot- your intentions must also be declared. If you catch and release, you may not look at the info for the Pokémon. If you are trapped while scouting and do not have any balls/run out of balls, you may kill the mon but DO NOT have to return and pivot. PLEASE DO NOT ABUSE THIS RULE. |
 | Seed Visibility             | Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. E.g. Tourney Seed #1 |
@@ -55,9 +55,10 @@ An IronMON patch for HeartGold has been put together by PyroMike, you can find t
 | Rule                        | Details
 |-|-|
 | Level-Up Evolutions         | Successfully evolving a Pokémon through natural level-up (Items/Friendship evolutions will not count) will earn you bonus points towards your tournament score. |
-| <420BST = Double Points     | Running a Pokémon that is <420BST will net you (x2) DOUBLE points on milestones. Once it evolves (if it does), you will no longer have the x2 modifier. |
+| 419 or less BST = Double Points     | Running a Pokémon that is <420BST (420BST Pokémon, such as Linoone or Mightyena DO NOT count) will net you (x2) DOUBLE points on milestones. Once it evolves (if it does), you will no longer have the x2 modifier. |
 - Bonus structure: Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5)
 - Rival 1 battle is ONLY worth 1 point, even though your BST might be lower than 420. If you evolve in the lab, you will get 1 point for the milestone and 2 points for the evo.
 - Where it evolves MUST be reflected in your score reporting.
 - Limited to two evolution bonuses PER SEED.
-- Evolution targets (for bonus points) can ONLY come from the following locations: Route 29, 30, 31, 32, 46, Ruins of Alph, Dark Cave, Headbutt/Fishing locations pre-Union Cave. Evolution bonus is not available to new pivots after Union Cave.
+- Evolution targets (for bonus points) can ONLY come from the following locations: Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave.
+- HM Pokémon DO NOT get bonus points for evolution. The main Pokémon at the time is the ONLY Pokémon eligible for bonus evolution points.
